@@ -1,0 +1,6045 @@
+fileFormatVersion: 2
+guid: 2f2d4196b0b3d824a9e7a5ad5213867a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5771816833019670704
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_0
+  - first:
+      213: 3214838332692358697
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_1
+  - first:
+      213: -2779188657716185160
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_2
+  - first:
+      213: 1755224509503321762
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_3
+  - first:
+      213: 7187124850713189257
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_4
+  - first:
+      213: 9109914083534829183
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_5
+  - first:
+      213: -8825833238356512076
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_6
+  - first:
+      213: -2945191872071255747
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_7
+  - first:
+      213: -5366986422887859510
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_8
+  - first:
+      213: -3995251727766796734
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_9
+  - first:
+      213: -7549632586688438731
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_10
+  - first:
+      213: 2207007308734564713
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_11
+  - first:
+      213: 3720895839963103380
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_12
+  - first:
+      213: 2880692703585612760
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_13
+  - first:
+      213: 503787680346824257
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_14
+  - first:
+      213: 3054971209853005248
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_15
+  - first:
+      213: 8916684637039989484
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_16
+  - first:
+      213: -5411848945989354111
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_17
+  - first:
+      213: 3773894950411486503
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_18
+  - first:
+      213: -3817647389982409118
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_19
+  - first:
+      213: 2650014192785722695
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_20
+  - first:
+      213: -1598559872185972200
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_21
+  - first:
+      213: 2256109964291680679
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_22
+  - first:
+      213: 4797131475527532165
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_23
+  - first:
+      213: 3984895727677692520
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_24
+  - first:
+      213: -3920986111370425685
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_25
+  - first:
+      213: -1598141801145488959
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_26
+  - first:
+      213: -233947587954068623
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_27
+  - first:
+      213: 2504392731497272877
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_28
+  - first:
+      213: 5741886680254824269
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_29
+  - first:
+      213: -1912586482684045175
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_30
+  - first:
+      213: 5803294354140784697
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_31
+  - first:
+      213: 6337026459920906334
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_32
+  - first:
+      213: -1866387886330532953
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_33
+  - first:
+      213: 2109803948847650537
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_34
+  - first:
+      213: 606713706122743011
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_35
+  - first:
+      213: -6950525783490508319
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_36
+  - first:
+      213: -4709461836749088647
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_37
+  - first:
+      213: 9098689684809817969
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_38
+  - first:
+      213: -781454841077018130
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_39
+  - first:
+      213: 2147250344103779879
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_40
+  - first:
+      213: -8928456205125255661
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_41
+  - first:
+      213: 5335934786246113938
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_42
+  - first:
+      213: -3108171285680035295
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_43
+  - first:
+      213: -8472073686483170362
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_44
+  - first:
+      213: 5655914148628136666
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_45
+  - first:
+      213: -7448858718125362886
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_46
+  - first:
+      213: -7907562419267727884
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_47
+  - first:
+      213: -4708921589440025114
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_48
+  - first:
+      213: -7993900990433876199
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_49
+  - first:
+      213: -1882408665170054452
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_50
+  - first:
+      213: -4500607569763278140
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_51
+  - first:
+      213: 8220728243487534623
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_52
+  - first:
+      213: -7106877291953874194
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_53
+  - first:
+      213: 8409672657300090904
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_54
+  - first:
+      213: -3792443598073886250
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_55
+  - first:
+      213: 4027893262484579192
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_56
+  - first:
+      213: -2278714142018163841
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_57
+  - first:
+      213: 6776383403647340886
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_58
+  - first:
+      213: 3912453013077715324
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_59
+  - first:
+      213: 3294144219912333159
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_60
+  - first:
+      213: -3972036823832530554
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_61
+  - first:
+      213: -391539542341237297
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_62
+  - first:
+      213: 6201467599377591197
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_63
+  - first:
+      213: 3200825604987211415
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_64
+  - first:
+      213: 5644825307440851904
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_65
+  - first:
+      213: 3136111278753733572
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_66
+  - first:
+      213: 2438405009255262872
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_67
+  - first:
+      213: 2407103864218839042
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_68
+  - first:
+      213: -5012189457231968878
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_69
+  - first:
+      213: -3475173216528415778
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_70
+  - first:
+      213: 6910290623857157500
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_71
+  - first:
+      213: -110736090394126824
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_72
+  - first:
+      213: 7946738604002497299
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_73
+  - first:
+      213: 8904030489662193391
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_74
+  - first:
+      213: -4666459402509065081
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_75
+  - first:
+      213: -6067892341922936380
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_76
+  - first:
+      213: -9049613580433125615
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_77
+  - first:
+      213: 3985245665792579082
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_78
+  - first:
+      213: 3829724769246512862
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_79
+  - first:
+      213: 311729054411312369
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_80
+  - first:
+      213: -3622838867365987684
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_81
+  - first:
+      213: -8720518465161009822
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_82
+  - first:
+      213: -125220928836293182
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_83
+  - first:
+      213: -1563394758256247582
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_84
+  - first:
+      213: -6056053055303448207
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_85
+  - first:
+      213: -7426730115926657522
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_86
+  - first:
+      213: -3054275595848033888
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_87
+  - first:
+      213: 3921565266614746664
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_88
+  - first:
+      213: -8331024188750315083
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_89
+  - first:
+      213: -3638115867807888616
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_90
+  - first:
+      213: 4343219826825598332
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_91
+  - first:
+      213: -7654296880517795249
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_92
+  - first:
+      213: 3791116807265977041
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_93
+  - first:
+      213: 4223348324145657190
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_94
+  - first:
+      213: -3085681404565463526
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_95
+  - first:
+      213: -5386856552341484091
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_96
+  - first:
+      213: -1663040850721873470
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_97
+  - first:
+      213: 8636665028847923347
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_98
+  - first:
+      213: 9117852625081824378
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_99
+  - first:
+      213: 2476054103328307663
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_100
+  - first:
+      213: 6923349226821917350
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_101
+  - first:
+      213: -3690345372975528725
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_102
+  - first:
+      213: 3862514902032504612
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_103
+  - first:
+      213: -4504201286756092381
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_104
+  - first:
+      213: 4987648964857347727
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_105
+  - first:
+      213: -3468804764364903177
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_106
+  - first:
+      213: 2308032678580957993
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_107
+  - first:
+      213: -8993531870113077099
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_108
+  - first:
+      213: 2553474843003509429
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_109
+  - first:
+      213: 5700805603205783666
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_110
+  - first:
+      213: 2793061851967674756
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_111
+  - first:
+      213: -7782466020334824309
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_112
+  - first:
+      213: -3818344837117794070
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_113
+  - first:
+      213: -2798962647018285433
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_114
+  - first:
+      213: 4791672616019740108
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_115
+  - first:
+      213: 8124624116429843102
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_116
+  - first:
+      213: 5042031731358142780
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_117
+  - first:
+      213: 3764697868493217701
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_118
+  - first:
+      213: 6752893311416263209
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_119
+  - first:
+      213: 4939098417610914468
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_120
+  - first:
+      213: -6227476704792258480
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_121
+  - first:
+      213: -8514748860473166198
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_122
+  - first:
+      213: -3625397287515874580
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_123
+  - first:
+      213: 2618706084697039920
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_124
+  - first:
+      213: -1218468690190100665
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_125
+  - first:
+      213: -9096238248790188342
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_126
+  - first:
+      213: -2640283432547302080
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_127
+  - first:
+      213: 25840473163500431
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_128
+  - first:
+      213: -332132535104223898
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_129
+  - first:
+      213: -2360425782013255032
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_130
+  - first:
+      213: -1259323880949734151
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_131
+  - first:
+      213: -5088650761590352439
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_132
+  - first:
+      213: -2866757455578625974
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_133
+  - first:
+      213: -454109742437553009
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_134
+  - first:
+      213: 7435484183160193458
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_135
+  - first:
+      213: 7837057295694836594
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_136
+  - first:
+      213: 647713187182166586
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_137
+  - first:
+      213: 6896525292489992912
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_138
+  - first:
+      213: -6001231560102514764
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_139
+  - first:
+      213: -6295742837880317020
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_140
+  - first:
+      213: 2290389328443764291
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_141
+  - first:
+      213: 8946160032590856530
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_142
+  - first:
+      213: 666419372656324010
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_143
+  - first:
+      213: -5623679953984557383
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_144
+  - first:
+      213: -7327583903345835537
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_145
+  - first:
+      213: -6386150011596222706
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_146
+  - first:
+      213: 1088454539572482421
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_147
+  - first:
+      213: 1330785371250728852
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_148
+  - first:
+      213: -4458929340532626697
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_149
+  - first:
+      213: 2740643197494018531
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_150
+  - first:
+      213: -5442118871418863297
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_151
+  - first:
+      213: 3706322683138518543
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_152
+  - first:
+      213: -5666032822516363490
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_153
+  - first:
+      213: -6270118593315857708
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_154
+  - first:
+      213: 2066717454497716646
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_155
+  - first:
+      213: -1677247363793409145
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_156
+  - first:
+      213: -2945691769714859694
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_157
+  - first:
+      213: 5906257305829128009
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_158
+  - first:
+      213: -9220430494697861151
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_159
+  - first:
+      213: 1083035367752557975
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_160
+  - first:
+      213: 8908425629088811313
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_161
+  - first:
+      213: -7978740632371350946
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_162
+  - first:
+      213: -8920965516791040657
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_163
+  - first:
+      213: 8584487729731878786
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_164
+  - first:
+      213: -8105737500522604371
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_165
+  - first:
+      213: 4359491393959868198
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_166
+  - first:
+      213: 4003013887689984173
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_167
+  - first:
+      213: 5926004984116442774
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_168
+  - first:
+      213: 8591159758535353365
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_169
+  - first:
+      213: 1912212173430438060
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_170
+  - first:
+      213: -499113940525700193
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_171
+  - first:
+      213: 7763343723114061403
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_172
+  - first:
+      213: -7059932681191143823
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_173
+  - first:
+      213: 7568535544054715290
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_174
+  - first:
+      213: 8498092664828660021
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_175
+  - first:
+      213: 4075205291363671554
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_176
+  - first:
+      213: 6768130232304912375
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_177
+  - first:
+      213: 784627443902144330
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_178
+  - first:
+      213: 2252818404878200998
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_179
+  - first:
+      213: -8331668976990554380
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_180
+  - first:
+      213: -1053113760525641899
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_181
+  - first:
+      213: -3079248993519568146
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_182
+  - first:
+      213: -6820936907737686460
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_183
+  - first:
+      213: -795358918195016036
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_184
+  - first:
+      213: -5453636568838741658
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_185
+  - first:
+      213: -1980598708413494607
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_186
+  - first:
+      213: 3480723604250581120
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_187
+  - first:
+      213: 7043862745165420367
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_188
+  - first:
+      213: 6383127746136946122
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_189
+  - first:
+      213: 360731741935035123
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_190
+  - first:
+      213: 7490217572908119673
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_191
+  - first:
+      213: -3545626274435537120
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_192
+  - first:
+      213: 2142289718030151899
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_193
+  - first:
+      213: -4724152105332196872
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_194
+  - first:
+      213: -6576726928577800086
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_195
+  - first:
+      213: -6369218079482551583
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_196
+  - first:
+      213: -5344511495993008336
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_197
+  - first:
+      213: 1980820344571292002
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_198
+  - first:
+      213: 3122506984803143150
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_199
+  - first:
+      213: -8898253443334621739
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_200
+  - first:
+      213: 8871407174741844905
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_201
+  - first:
+      213: 4497350228669878995
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_202
+  - first:
+      213: 8390489934473390608
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_203
+  - first:
+      213: 4298876716708190891
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_204
+  - first:
+      213: 1905909111612139612
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_205
+  - first:
+      213: 7695597320662002463
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_206
+  - first:
+      213: -1941372932255701550
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_207
+  - first:
+      213: 2089049193678185321
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_208
+  - first:
+      213: 5947383845091515435
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_209
+  - first:
+      213: -6748392563466980947
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_210
+  - first:
+      213: 3294775620919274426
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_211
+  - first:
+      213: -3104030064057167448
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_212
+  - first:
+      213: -5160271882923576393
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_213
+  - first:
+      213: 7074644017765313419
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_214
+  - first:
+      213: 7146815086130935271
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_215
+  - first:
+      213: -3445393862770467560
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_216
+  - first:
+      213: 8187578213363220233
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_217
+  - first:
+      213: -258527480394211872
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_218
+  - first:
+      213: 4891188407744031540
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_219
+  - first:
+      213: 6159737640918612203
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_220
+  - first:
+      213: -714876170453532092
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_221
+  - first:
+      213: -8631843318683068354
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_222
+  - first:
+      213: 124737594951488847
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_223
+  - first:
+      213: 440492212694522644
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_224
+  - first:
+      213: 8900411277911704093
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_225
+  - first:
+      213: 8896963119429703066
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f1c844dc991050800000000000000
+      internalID: 5771816833019670704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 431
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ef6e3e666d9c20800000000000000
+      internalID: 3214838332692358697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 431
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7380df3a65e69d0800000000000000
+      internalID: -2779188657716185160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6310e446fcb5810800000000000000
+      internalID: 1755224509503321762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b542309fbcdb360800000000000000
+      internalID: 7187124850713189257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76fb63b79aec6e70800000000000000
+      internalID: 9109914083534829183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2bce45e67548580800000000000000
+      internalID: -8825833238356512076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3933ddb8939027d0800000000000000
+      internalID: -2945191872071255747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acabc6da842a485b0800000000000000
+      internalID: -5366986422887859510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c13aa8b30e88c0800000000000000
+      internalID: -3995251727766796734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed8bd79215a3790800000000000000
+      internalID: -7549632586688438731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96980dd347dd0ae10800000000000000
+      internalID: 2207007308734564713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490ca336d0743a330800000000000000
+      internalID: 3720895839963103380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3b74850c64af720800000000000000
+      internalID: 2880692703585612760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 412
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5a41e930ddf600800000000000000
+      internalID: 503787680346824257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd65522120756a20800000000000000
+      internalID: 3054971209853005248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 401
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce293fc4f6d6ebb70800000000000000
+      internalID: 8916684637039989484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 401
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7b3c8e0045e4b0800000000000000
+      internalID: -5411848945989354111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 401
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725cae266719f5430800000000000000
+      internalID: 3773894950411486503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eb662fcedf40bc0800000000000000
+      internalID: -3817647389982409118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d8cb23eddb6c420800000000000000
+      internalID: 2650014192785722695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a492a0446c0d9e0800000000000000
+      internalID: -1598559872185972200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a923d32f005f4f10800000000000000
+      internalID: 2256109964291680679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef9a329a5d29240800000000000000
+      internalID: 4797131475527532165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a533b2d813d4730800000000000000
+      internalID: 3984895727677692520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa868ee7ebd599c0800000000000000
+      internalID: -3920986111370425685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9250acf7242d9e0800000000000000
+      internalID: -1598141801145488959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17330f388e9d0ccf0800000000000000
+      internalID: -233947587954068623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2617f2abe361c220800000000000000
+      internalID: 2504392731497272877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb22d83874faf40800000000000000
+      internalID: 5741886680254824269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 382
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98857613ab02575e0800000000000000
+      internalID: -1912586482684045175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386799c771798050800000000000000
+      internalID: 5803294354140784697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 371
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5836d38df3a1f750800000000000000
+      internalID: 6337026459920906334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 369
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2d2e1b124916e0800000000000000
+      internalID: -1866387886330532953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 371
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d7c46387874d10800000000000000
+      internalID: 2109803948847650537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec8ec5b6ea7b6800800000000000000
+      internalID: 606713706122743011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9cad810a5ca8f90800000000000000
+      internalID: -6950525783490508319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978df494961a4aeb0800000000000000
+      internalID: -4709461836749088647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f9998bf0a054e70800000000000000
+      internalID: 9098689684809817969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1589d56f6b725f0800000000000000
+      internalID: -781454841077018130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1424bfc09ccd10800000000000000
+      internalID: 2147250344103779879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e70ece260c71480800000000000000
+      internalID: -8928456205125255661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a79d6ca6c0d0a40800000000000000
+      internalID: 5335934786246113938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ae8f7feae8dd4d0800000000000000
+      internalID: -3108171285680035295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8c3e7ed52d6a80800000000000000
+      internalID: -8472073686483170362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_45
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2061da3f7dd7e40800000000000000
+      internalID: 5655914148628136666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 352
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31f01c267650a890800000000000000
+      internalID: -7448858718125362886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd815030e1b24290800000000000000
+      internalID: -7907562419267727884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed624a63cc86aeb0800000000000000
+      internalID: -4708921589440025114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 341
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917ab871765ff0190800000000000000
+      internalID: -7993900990433876199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2fb6eda4750e5e0800000000000000
+      internalID: -1882408665170054452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c263d2b241aa81c0800000000000000
+      internalID: -4500607569763278140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_52
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e681c38c4e51270800000000000000
+      internalID: 8220728243487534623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9cceb1cc4f5d90800000000000000
+      internalID: -7106877291953874194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ffa7b9b825b470800000000000000
+      internalID: 8409672657300090904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90a1a04a88e5bc0800000000000000
+      internalID: -3792443598073886250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873259fd493f5e730800000000000000
+      internalID: 4027893262484579192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b295c9f816060e0800000000000000
+      internalID: -2278714142018163841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_58
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65190448dcc8a0e50800000000000000
+      internalID: 6776383403647340886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7967ec4943db4630800000000000000
+      internalID: 3912453013077715324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e7c207b627bd20800000000000000
+      internalID: 3294144219912333159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 322
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681f0b0bd8d70e8c0800000000000000
+      internalID: -3972036823832530554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc54b375cd8f09af0800000000000000
+      internalID: -391539542341237297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 311
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9beef2cce9001650800000000000000
+      internalID: 6201467599377591197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 311
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ecc35dded9b6c20800000000000000
+      internalID: 3200825604987211415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_65
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba525a5b2765e40800000000000000
+      internalID: 5644825307440851904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb563a9794b58b20800000000000000
+      internalID: 3136111278753733572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a613bcf64f6d120800000000000000
+      internalID: 2438405009255262872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208eb3c0630c76120800000000000000
+      internalID: 2407103864218839042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950bbe8e30217ab0800000000000000
+      internalID: -5012189457231968878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34fdf2f54b5cfc0800000000000000
+      internalID: -3475173216528415778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 281
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75e7b9c5b846ef50800000000000000
+      internalID: 6910290623857157500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8161e3ccc16967ef0800000000000000
+      internalID: -110736090394126824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d37e18ac784e60800000000000000
+      internalID: 7946738604002497299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeff850e88719b70800000000000000
+      internalID: 8904030489662193391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7846aaab5e76d3fb0800000000000000
+      internalID: -4666459402509065081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ce5860148acba0800000000000000
+      internalID: -6067892341922936380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f8bbf3560596280800000000000000
+      internalID: -9049613580433125615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065b3c71df6e4730800000000000000
+      internalID: 3985245665792579082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6047a036ae52530800000000000000
+      internalID: 3829724769246512862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_80
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcca526ceb735400800000000000000
+      internalID: 311729054411312369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9afb28ae3719bdc0800000000000000
+      internalID: -3622838867365987684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265e7d2c8ae7af680800000000000000
+      internalID: -8720518465161009822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda44a8a30234ef0800000000000000
+      internalID: -125220928836293182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_84
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecbd6620c4bd4ae0800000000000000
+      internalID: -1563394758256247582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_85
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 262
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17908b125d394fba0800000000000000
+      internalID: -6056053055303448207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06fe7dde44fee890800000000000000
+      internalID: -7426730115926657522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9555f17880d95d0800000000000000
+      internalID: -3054275595848033888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ef41825d23c6630800000000000000
+      internalID: 3921565266614746664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c956d3a1426c80800000000000000
+      internalID: -8331024188750315083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b499fc4e0d28dc0800000000000000
+      internalID: -3638115867807888616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c759f5fcb67364c30800000000000000
+      internalID: 4343219826825598332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_92
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423b579a8976c590800000000000000
+      internalID: -7654296880517795249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_93
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d20a1766a0cc9430800000000000000
+      internalID: 3791116807265977041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_94
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665717face85c9a30800000000000000
+      internalID: 4223348324145657190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed8d67c157d25d0800000000000000
+      internalID: -3085681404565463526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_96
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd43b5a18a0e35b0800000000000000
+      internalID: -5386856552341484091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c162cd4821bbe8e0800000000000000
+      internalID: -1663040850721873470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_98
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390f480b5199bd770800000000000000
+      internalID: 8636665028847923347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747d5077ae198e70800000000000000
+      internalID: 9117852625081824378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc938899616bc5220800000000000000
+      internalID: 2476054103328307663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_101
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 232
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa12b8b07da41060800000000000000
+      internalID: 6923349226821917350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be489418f6249ccc0800000000000000
+      internalID: -3690345372975528725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427dc43c6d86a9530800000000000000
+      internalID: 3862514902032504612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_104
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326bb024bccdd71c0800000000000000
+      internalID: -4504201286756092381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_105
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 221
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ebaaece40b73540800000000000000
+      internalID: 4987648964857347727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce8d002745cdfc0800000000000000
+      internalID: -3468804764364903177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923bfc02e77c70020800000000000000
+      internalID: 2308032678580957993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_108
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59861c5f96e803380800000000000000
+      internalID: -8993531870113077099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_109
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bade1047d3cf6320800000000000000
+      internalID: 2553474843003509429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_110
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27023a0fd745d1f40800000000000000
+      internalID: 5700805603205783666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895a32c4f2f2c620800000000000000
+      internalID: 2793061851967674756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_112
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84156543602ff390800000000000000
+      internalID: -7782466020334824309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8a5a1e993820bc0800000000000000
+      internalID: -3818344837117794070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_114
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78653e45d461829d0800000000000000
+      internalID: -2798962647018285433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c2dd5bd07f7240800000000000000
+      internalID: 4791672616019740108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a6f59769670c070800000000000000
+      internalID: 8124624116429843102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_117
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 202
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3199d55525e8f540800000000000000
+      internalID: 5042031731358142780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af5532e3c4ee3430800000000000000
+      internalID: 3764697868493217701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e31930b817bd50800000000000000
+      internalID: 6752893311416263209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa7464a7d33b8440800000000000000
+      internalID: 4939098417610914468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_121
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05856db7eee8399a0800000000000000
+      internalID: -6227476704792258480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86b5d3460985d980800000000000000
+      internalID: -8514748860473166198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_123
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea93fb006000bdc0800000000000000
+      internalID: -3625397287515874580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_124
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034658d3f43875420800000000000000
+      internalID: 2618706084697039920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_125
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74798479e21271fe0800000000000000
+      internalID: -1218468690190100665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1a84b18ba3c180800000000000000
+      internalID: -9096238248790188342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_127
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454ba8f434db5bd0800000000000000
+      internalID: -2640283432547302080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b0dbff5cdcb5000800000000000000
+      internalID: 25840473163500431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_129
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66543c21837046bf0800000000000000
+      internalID: -332132535104223898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8822d60e1451e3fd0800000000000000
+      internalID: -2360425782013255032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_131
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f423da3a9bf58ee0800000000000000
+      internalID: -1259323880949734151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_132
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d269d71b7169b0800000000000000
+      internalID: -5088650761590352439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48880b684b3738d0800000000000000
+      internalID: -2866757455578625974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_134
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c27f0689da2b9f0800000000000000
+      internalID: -454109742437553009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 161
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18c4e3875203760800000000000000
+      internalID: 7435484183160193458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_136
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27336428612d2cc60800000000000000
+      internalID: 7837057295694836594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_137
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32445646b32df800800000000000000
+      internalID: 647713187182166586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_138
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daec53d63165bf50800000000000000
+      internalID: 6896525292489992912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_139
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe93521b757bca0800000000000000
+      internalID: -6001231560102514764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_140
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab1fe6ce3701a8a0800000000000000
+      internalID: -6295742837880317020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_141
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e6c3f85f819cf10800000000000000
+      internalID: 2290389328443764291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_142
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251006e9625272c70800000000000000
+      internalID: 8946160032590856530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_143
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad6e9a73e89f3900800000000000000
+      internalID: 666419372656324010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bee34c90eca4f1b0800000000000000
+      internalID: -5623679953984557383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_145
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1833b53413f4a90800000000000000
+      internalID: -7327583903345835537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f43745666df57a0800000000000000
+      internalID: -6386150011596222706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571116903a7fa1f00800000000000000
+      internalID: 1088454539572482421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_148
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 142
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9fad8e36e77210800000000000000
+      internalID: 1330785371250728852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa6cf2a363be12c0800000000000000
+      internalID: -4458929340532626697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_150
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1c8b2b778b80620800000000000000
+      internalID: 2740643197494018531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_151
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3101a358b5b974b0800000000000000
+      internalID: -5442118871418863297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_152
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea177e7d08f6330800000000000000
+      internalID: 3706322683138518543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4538fa253e51b0800000000000000
+      internalID: -5666032822516363490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_154
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da16d12c501cf8a0800000000000000
+      internalID: -6270118593315857708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_155
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a99f6e23947eac10800000000000000
+      internalID: 2066717454497716646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_156
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b22a8b86839b8e0800000000000000
+      internalID: -1677247363793409145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251aa5041fcce17d0800000000000000
+      internalID: -2945691769714859694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_158
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947300a1abd37f150800000000000000
+      internalID: 5906257305829128009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_159
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efca5721537a0080800000000000000
+      internalID: -9220430494697861151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_160
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956316cde6b70f00800000000000000
+      internalID: 1083035367752557975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13903d929e511ab70800000000000000
+      internalID: 8908425629088811313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_162
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b7840ba1d54190800000000000000
+      internalID: -7978740632371350946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_163
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f653926b02d523480800000000000000
+      internalID: -8920965516791040657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f3e5d8b1a322770800000000000000
+      internalID: 8584487729731878786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_165
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da899c670b2a28f80800000000000000
+      internalID: -8105737500522604371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b9524356008c30800000000000000
+      internalID: 4359491393959868198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_167
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da887b60cef8d8730800000000000000
+      internalID: 4003013887689984173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696747fb2266d3250800000000000000
+      internalID: 5926004984116442774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5146120584ee93770800000000000000
+      internalID: 8591159758535353365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_170
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8bf7427da898a10800000000000000
+      internalID: 1912212173430438060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_171
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2588f38ac219f0800000000000000
+      internalID: -499113940525700193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_172
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed875fbffecbb60800000000000000
+      internalID: 7763343723114061403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_173
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1764e6fa1a4160e90800000000000000
+      internalID: -7059932681191143823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_174
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a939c4d3af6d80960800000000000000
+      internalID: 7568535544054715290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_175
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539077bf04a4fe570800000000000000
+      internalID: 8498092664828660021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_176
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e16820f990e8830800000000000000
+      internalID: 4075205291363671554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7cd12569a3ded50800000000000000
+      internalID: 6768130232304912375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_178
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f5fcac08e83ea00800000000000000
+      internalID: 784627443902144330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_179
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03a3e376e934f10800000000000000
+      internalID: 2252818404878200998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f5506537ff5c80800000000000000
+      internalID: -8331668976990554380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_181
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571bcb4d969261f0800000000000000
+      internalID: -1053113760525641899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_182
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea794eda5f4445d0800000000000000
+      internalID: -3079248993519568146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_183
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e91f2750a2751a0800000000000000
+      internalID: -6820936907737686460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_184
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0c04274156f4f0800000000000000
+      internalID: -795358918195016036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661694c6f6ac054b0800000000000000
+      internalID: -5453636568838741658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_186
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8a66e7ff7384e0800000000000000
+      internalID: -1980598708413494607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_187
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885ca82da30e4030800000000000000
+      internalID: 3480723604250581120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_188
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475134c8d3d0c160800000000000000
+      internalID: 7043862745165420367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_189
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5be68addc659850800000000000000
+      internalID: 6383127746136946122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_190
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2ee39ab93910500800000000000000
+      internalID: 360731741935035123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_191
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976b39b923992f760800000000000000
+      internalID: 7490217572908119673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_192
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276afd50b76bcec0800000000000000
+      internalID: -3545626274435537120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b821f521fabd10800000000000000
+      internalID: 2142289718030151899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_194
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9b2c890b0707eb0800000000000000
+      internalID: -4724152105332196872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_195
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68df5514b5cab4a0800000000000000
+      internalID: -6576726928577800086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2627bf6edfb97a0800000000000000
+      internalID: -6369218079482551583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_197
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f585f5c1b74d5b0800000000000000
+      internalID: -5344511495993008336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_198
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e90acb994d7b10800000000000000
+      internalID: 1980820344571292002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_199
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed0ed51f8f555b20800000000000000
+      internalID: 3122506984803143150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_200
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b4a463ad038480800000000000000
+      internalID: -8898253443334621739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_201
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e65c92d19d1b70800000000000000
+      internalID: 8871407174741844905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_202
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d36a743cc96e30800000000000000
+      internalID: 4497350228669878995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_203
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae6c30422017470800000000000000
+      internalID: 8390489934473390608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_204
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad690f89da8ab30800000000000000
+      internalID: 4298876716708190891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_205
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5862d33d36237a10800000000000000
+      internalID: 1905909111612139612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba1887df04cca60800000000000000
+      internalID: 7695597320662002463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_207
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5275c9a9bde05e0800000000000000
+      internalID: -1941372932255701550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96321836c2bcdfc10800000000000000
+      internalID: 2089049193678185321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_209
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9395b81a598250800000000000000
+      internalID: 5947383845091515435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_210
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b9a1d7b4e852a0800000000000000
+      internalID: -6748392563466980947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abba28388f469bd20800000000000000
+      internalID: 3294775620919274426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_212
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15db34a154ce4d0800000000000000
+      internalID: -3104030064057167448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_213
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b377e110180368b0800000000000000
+      internalID: -5160271882923576393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_214
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6e37404f2e2260800000000000000
+      internalID: 7074644017765313419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_215
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5bc3494769e2360800000000000000
+      internalID: 7146815086130935271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_216
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d514a49808f20d0800000000000000
+      internalID: -3445393862770467560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_217
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ffd32610f10a170800000000000000
+      internalID: 8187578213363220233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_218
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed1d6650a6896cf0800000000000000
+      internalID: -258527480394211872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_219
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b671531fdf0e340800000000000000
+      internalID: 4891188407744031540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_220
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be87e8cafb8cb7550800000000000000
+      internalID: 6159737640918612203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_221
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c9b919ef3416f0800000000000000
+      internalID: -714876170453532092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_222
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3811113c38853880800000000000000
+      internalID: -8631843318683068354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_223
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4558358e282bb100800000000000000
+      internalID: 124737594951488847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b9bf76551fc1600800000000000000
+      internalID: 440492212694522644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_225
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12cece96ec948b70800000000000000
+      internalID: 8900411277911704093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_226
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95db59a1dc587b70800000000000000
+      internalID: 8896963119429703066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_0: 5771816833019670704
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_1: 3214838332692358697
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_10: -7549632586688438731
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_100: 2476054103328307663
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_101: 6923349226821917350
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_102: -3690345372975528725
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_103: 3862514902032504612
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_104: -4504201286756092381
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_105: 4987648964857347727
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_106: -3468804764364903177
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_107: 2308032678580957993
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_108: -8993531870113077099
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_109: 2553474843003509429
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_11: 2207007308734564713
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_110: 5700805603205783666
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_111: 2793061851967674756
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_112: -7782466020334824309
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_113: -3818344837117794070
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_114: -2798962647018285433
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_115: 4791672616019740108
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_116: 8124624116429843102
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_117: 5042031731358142780
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_118: 3764697868493217701
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_119: 6752893311416263209
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_12: 3720895839963103380
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_120: 4939098417610914468
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_121: -6227476704792258480
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_122: -8514748860473166198
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_123: -3625397287515874580
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_124: 2618706084697039920
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_125: -1218468690190100665
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_126: -9096238248790188342
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_127: -2640283432547302080
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_128: 25840473163500431
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_129: -332132535104223898
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_13: 2880692703585612760
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_130: -2360425782013255032
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_131: -1259323880949734151
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_132: -5088650761590352439
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_133: -2866757455578625974
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_134: -454109742437553009
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_135: 7435484183160193458
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_136: 7837057295694836594
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_137: 647713187182166586
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_138: 6896525292489992912
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_139: -6001231560102514764
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_14: 503787680346824257
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_140: -6295742837880317020
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_141: 2290389328443764291
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_142: 8946160032590856530
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_143: 666419372656324010
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_144: -5623679953984557383
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_145: -7327583903345835537
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_146: -6386150011596222706
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_147: 1088454539572482421
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_148: 1330785371250728852
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_149: -4458929340532626697
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_15: 3054971209853005248
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_150: 2740643197494018531
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_151: -5442118871418863297
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_152: 3706322683138518543
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_153: -5666032822516363490
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_154: -6270118593315857708
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_155: 2066717454497716646
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_156: -1677247363793409145
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_157: -2945691769714859694
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_158: 5906257305829128009
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_159: -9220430494697861151
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_16: 8916684637039989484
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_160: 1083035367752557975
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_161: 8908425629088811313
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_162: -7978740632371350946
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_163: -8920965516791040657
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_164: 8584487729731878786
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_165: -8105737500522604371
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_166: 4359491393959868198
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_167: 4003013887689984173
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_168: 5926004984116442774
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_169: 8591159758535353365
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_17: -5411848945989354111
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_170: 1912212173430438060
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_171: -499113940525700193
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_172: 7763343723114061403
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_173: -7059932681191143823
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_174: 7568535544054715290
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_175: 8498092664828660021
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_176: 4075205291363671554
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_177: 6768130232304912375
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_178: 784627443902144330
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_179: 2252818404878200998
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_18: 3773894950411486503
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_180: -8331668976990554380
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_181: -1053113760525641899
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_182: -3079248993519568146
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_183: -6820936907737686460
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_184: -795358918195016036
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_185: -5453636568838741658
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_186: -1980598708413494607
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_187: 3480723604250581120
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_188: 7043862745165420367
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_189: 6383127746136946122
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_19: -3817647389982409118
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_190: 360731741935035123
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_191: 7490217572908119673
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_192: -3545626274435537120
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_193: 2142289718030151899
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_194: -4724152105332196872
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_195: -6576726928577800086
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_196: -6369218079482551583
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_197: -5344511495993008336
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_198: 1980820344571292002
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_199: 3122506984803143150
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_2: -2779188657716185160
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_20: 2650014192785722695
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_200: -8898253443334621739
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_201: 8871407174741844905
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_202: 4497350228669878995
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_203: 8390489934473390608
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_204: 4298876716708190891
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_205: 1905909111612139612
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_206: 7695597320662002463
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_207: -1941372932255701550
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_208: 2089049193678185321
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_209: 5947383845091515435
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_21: -1598559872185972200
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_210: -6748392563466980947
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_211: 3294775620919274426
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_212: -3104030064057167448
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_213: -5160271882923576393
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_214: 7074644017765313419
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_215: 7146815086130935271
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_216: -3445393862770467560
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_217: 8187578213363220233
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_218: -258527480394211872
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_219: 4891188407744031540
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_22: 2256109964291680679
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_220: 6159737640918612203
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_221: -714876170453532092
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_222: -8631843318683068354
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_223: 124737594951488847
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_224: 440492212694522644
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_225: 8900411277911704093
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_226: 8896963119429703066
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_23: 4797131475527532165
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_24: 3984895727677692520
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_25: -3920986111370425685
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_26: -1598141801145488959
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_27: -233947587954068623
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_28: 2504392731497272877
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_29: 5741886680254824269
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_3: 1755224509503321762
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_30: -1912586482684045175
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_31: 5803294354140784697
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_32: 6337026459920906334
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_33: -1866387886330532953
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_34: 2109803948847650537
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_35: 606713706122743011
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_36: -6950525783490508319
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_37: -4709461836749088647
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_38: 9098689684809817969
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_39: -781454841077018130
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_4: 7187124850713189257
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_40: 2147250344103779879
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_41: -8928456205125255661
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_42: 5335934786246113938
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_43: -3108171285680035295
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_44: -8472073686483170362
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_45: 5655914148628136666
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_46: -7448858718125362886
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_47: -7907562419267727884
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_48: -4708921589440025114
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_49: -7993900990433876199
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_5: 9109914083534829183
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_50: -1882408665170054452
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_51: -4500607569763278140
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_52: 8220728243487534623
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_53: -7106877291953874194
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_54: 8409672657300090904
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_55: -3792443598073886250
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_56: 4027893262484579192
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_57: -2278714142018163841
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_58: 6776383403647340886
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_59: 3912453013077715324
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_6: -8825833238356512076
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_60: 3294144219912333159
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_61: -3972036823832530554
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_62: -391539542341237297
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_63: 6201467599377591197
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_64: 3200825604987211415
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_65: 5644825307440851904
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_66: 3136111278753733572
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_67: 2438405009255262872
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_68: 2407103864218839042
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_69: -5012189457231968878
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_7: -2945191872071255747
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_70: -3475173216528415778
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_71: 6910290623857157500
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_72: -110736090394126824
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_73: 7946738604002497299
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_74: 8904030489662193391
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_75: -4666459402509065081
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_76: -6067892341922936380
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_77: -9049613580433125615
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_78: 3985245665792579082
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_79: 3829724769246512862
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_8: -5366986422887859510
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_80: 311729054411312369
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_81: -3622838867365987684
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_82: -8720518465161009822
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_83: -125220928836293182
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_84: -1563394758256247582
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_85: -6056053055303448207
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_86: -7426730115926657522
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_87: -3054275595848033888
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_88: 3921565266614746664
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_89: -8331024188750315083
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_9: -3995251727766796734
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_90: -3638115867807888616
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_91: 4343219826825598332
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_92: -7654296880517795249
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_93: 3791116807265977041
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_94: 4223348324145657190
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_95: -3085681404565463526
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_96: -5386856552341484091
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_97: -1663040850721873470
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_98: 8636665028847923347
+      3DS - Shantae and the Pirate's Curse - Miscellaneous - Gems_99: 9117852625081824378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

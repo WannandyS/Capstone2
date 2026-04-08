@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 824ffd9c782a67f42851a62f5cfb6afd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2138613288678857762
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_0
+  - first:
+      213: 3410470346177501012
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_1
+  - first:
+      213: 1059073841885871615
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_2
+  - first:
+      213: 6740278495325165350
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_3
+  - first:
+      213: 4162031260308402573
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_4
+  - first:
+      213: 7816454545726469239
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_5
+  - first:
+      213: -8280044711097592184
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_6
+  - first:
+      213: 3968623686742066463
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_7
+  - first:
+      213: -4757795415909706129
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_8
+  - first:
+      213: 2160229108902758069
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_9
+  - first:
+      213: 2960664077274392138
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_10
+  - first:
+      213: -1000735177780456580
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_11
+  - first:
+      213: 303452646507934601
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_12
+  - first:
+      213: -4524039624227085986
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_13
+  - first:
+      213: -7504566644790957737
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_14
+  - first:
+      213: 4128217710358917055
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_15
+  - first:
+      213: 4373731157596848635
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_16
+  - first:
+      213: -895751123256310115
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_17
+  - first:
+      213: 7266837228395866787
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_18
+  - first:
+      213: 5978901881281911161
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_19
+  - first:
+      213: -6001345638308655920
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_20
+  - first:
+      213: 7286187884075024385
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_21
+  - first:
+      213: 8968971426894404032
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_22
+  - first:
+      213: 7794401357652604945
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_23
+  - first:
+      213: 5761790541622485625
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_24
+  - first:
+      213: 7890621172016745011
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_25
+  - first:
+      213: 8756816197540158857
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_26
+  - first:
+      213: -7865574145021481787
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_27
+  - first:
+      213: 3197847061143808349
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_28
+  - first:
+      213: 6821111245576543669
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_29
+  - first:
+      213: 567579358911535135
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_30
+  - first:
+      213: -6382676080219187683
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_31
+  - first:
+      213: 4484220949952760413
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_32
+  - first:
+      213: 8317074548182451479
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_33
+  - first:
+      213: 3042064651600623518
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_34
+  - first:
+      213: 5100929829000164238
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_35
+  - first:
+      213: 6352610798881705533
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_36
+  - first:
+      213: 1372564605197353856
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_37
+  - first:
+      213: -3147974482662233905
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_38
+  - first:
+      213: -76666964044041617
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_39
+  - first:
+      213: 4181159659896964800
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_40
+  - first:
+      213: -949074689499046726
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_41
+  - first:
+      213: 6869165220564976171
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_42
+  - first:
+      213: 3766160611315876736
+    second: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+      Particle Effects_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c12a78471edad10800000000000000
+      internalID: 2138613288678857762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457d9ecd5bc645f20800000000000000
+      internalID: 3410470346177501012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdf3884c0692be00800000000000000
+      internalID: 1059073841885871615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 49
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279f0974974a8d50800000000000000
+      internalID: 6740278495325165350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f0ce316182c930800000000000000
+      internalID: 4162031260308402573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747309feff997c60800000000000000
+      internalID: 7816454545726469239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861dae643f571d80800000000000000
+      internalID: -8280044711097592184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1546776732631730800000000000000
+      internalID: 3968623686742066463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6658b0f64ae8fdb0800000000000000
+      internalID: -4757795415909706129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b68b9dddecaafd10800000000000000
+      internalID: 2160229108902758069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a462331ca44661920800000000000000
+      internalID: 2960664077274392138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73982e68acac12f0800000000000000
+      internalID: -1000735177780456580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 35
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f1410394163400800000000000000
+      internalID: 303452646507934601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5127206ee16731c0800000000000000
+      internalID: -4524039624227085986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 33
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7596dffb56c6ad790800000000000000
+      internalID: -7504566644790957737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6b65a2206a4930800000000000000
+      internalID: 4128217710358917055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 35
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf14e97905d92bc30800000000000000
+      internalID: 4373731157596848635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 35
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96862b6917a193f0800000000000000
+      internalID: -895751123256310115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaae1735fdf8d460800000000000000
+      internalID: 7266837228395866787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97919bc559359f250800000000000000
+      internalID: 5978901881281911161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcc54e30ffe6bca0800000000000000
+      internalID: -6001345638308655920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1000c05d64dbd1560800000000000000
+      internalID: 7286187884075024385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 21
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95bac3eff287c70800000000000000
+      internalID: 8968971426894404032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 21
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b4bffcb64b2c60800000000000000
+      internalID: 7794401357652604945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9722d9768fdf5ff40800000000000000
+      internalID: 5761790541622485625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 21
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0c3f462e118d60800000000000000
+      internalID: 7890621172016745011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d94c1afe5768970800000000000000
+      internalID: 8756816197540158857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc6f7b1dfdd7d290800000000000000
+      internalID: -7865574145021481787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e08d85f8016c20800000000000000
+      internalID: 3197847061143808349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd130eb98479ae50800000000000000
+      internalID: 6821111245576543669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 21
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1814c57b6270e700800000000000000
+      internalID: 567579358911535135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1617220ced2c67a0800000000000000
+      internalID: -6382676080219187683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8c4012372b3e30800000000000000
+      internalID: 4484220949952760413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7158bde5c3f2c6370800000000000000
+      internalID: 8317074548182451479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977d6edea5973a20800000000000000
+      internalID: 3042064651600623518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83bfb157a42ac640800000000000000
+      internalID: 5100929829000164238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e87af2dd1092850800000000000000
+      internalID: 6352610798881705533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083001c7c345c0310800000000000000
+      internalID: 1372564605197353856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc86ceef2e52054d0800000000000000
+      internalID: -3147974482662233905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62b52a6dcf9feef0800000000000000
+      internalID: -76666964044041617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c60a55de86760a30800000000000000
+      internalID: 4181159659896964800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc581b299534d2f0800000000000000
+      internalID: -949074689499046726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b224e3baf5d245f50800000000000000
+      internalID: 6869165220564976171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various
+        Particle Effects_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0830d8c3f17144430800000000000000
+      internalID: 3766160611315876736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aeff53d5ec6714a4fb7790dd005d1407
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_0: 2138613288678857762
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_1: 3410470346177501012
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_10: 2960664077274392138
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_11: -1000735177780456580
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_12: 303452646507934601
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_13: -4524039624227085986
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_14: -7504566644790957737
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_15: 4128217710358917055
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_16: 4373731157596848635
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_17: -895751123256310115
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_18: 7266837228395866787
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_19: 5978901881281911161
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_2: 1059073841885871615
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_20: -6001345638308655920
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_21: 7286187884075024385
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_22: 8968971426894404032
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_23: 7794401357652604945
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_24: 5761790541622485625
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_25: 7890621172016745011
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_26: 8756816197540158857
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_27: -7865574145021481787
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_28: 3197847061143808349
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_29: 6821111245576543669
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_3: 6740278495325165350
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_30: 567579358911535135
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_31: -6382676080219187683
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_32: 4484220949952760413
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_33: 8317074548182451479
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_34: 3042064651600623518
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_35: 5100929829000164238
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_36: 6352610798881705533
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_37: 1372564605197353856
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_38: -3147974482662233905
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_39: -76666964044041617
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_4: 4162031260308402573
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_40: 4181159659896964800
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_41: -949074689499046726
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_42: 6869165220564976171
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_43: 3766160611315876736
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_5: 7816454545726469239
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_6: -8280044711097592184
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_7: 3968623686742066463
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_8: -4757795415909706129
+      SNES - Super Mario All-Stars_ Super Mario Bros. 3 - Miscellaneous - Various Particle Effects_9: 2160229108902758069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
