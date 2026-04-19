@@ -9,6 +9,7 @@ TagManager:
   - Item
   - Traps
   - Key
+  - TreasureKey
   layers:
   - Default
   - TransparentFX
