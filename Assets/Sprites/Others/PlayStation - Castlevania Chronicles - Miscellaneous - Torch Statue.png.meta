@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 5305bf20282216244bfc5d8295860a1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7655867172871708029
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_0
+  - first:
+      213: 7197269203086649723
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_1
+  - first:
+      213: -7720439414450683471
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_2
+  - first:
+      213: 6575884310845504558
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_3
+  - first:
+      213: -6414357020195163572
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_4
+  - first:
+      213: 8031351639474472990
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_5
+  - first:
+      213: -6996189525792433124
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_6
+  - first:
+      213: 6834504595265841678
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_7
+  - first:
+      213: 1961136159424959592
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_8
+  - first:
+      213: -2572851750142120498
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_9
+  - first:
+      213: 8890104463994573193
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_10
+  - first:
+      213: -8736512805189820233
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_11
+  - first:
+      213: 3397193737774291682
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_12
+  - first:
+      213: 135527038674122290
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_13
+  - first:
+      213: -4206684566608658376
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_14
+  - first:
+      213: -2979352603354644135
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_15
+  - first:
+      213: 3731112435419344661
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_16
+  - first:
+      213: -3661791558799689399
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_17
+  - first:
+      213: 4773802517434610590
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_18
+  - first:
+      213: -7455217554736025056
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_19
+  - first:
+      213: 2161763090419863687
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_20
+  - first:
+      213: 6984218924956501712
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_21
+  - first:
+      213: -4390266565151023446
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_22
+  - first:
+      213: -3545877797368058424
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_23
+  - first:
+      213: -568973329017134109
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_24
+  - first:
+      213: -2850379845177705604
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_25
+  - first:
+      213: -5619280752554629819
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_26
+  - first:
+      213: 8394993068523595541
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_27
+  - first:
+      213: 1397336242179582212
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_28
+  - first:
+      213: -2529355105734543711
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_29
+  - first:
+      213: 5674128159726868808
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_30
+  - first:
+      213: 6091263112139036269
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_31
+  - first:
+      213: 3279734428593202364
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_32
+  - first:
+      213: -8981759480657476766
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_33
+  - first:
+      213: 6121189380331827455
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_34
+  - first:
+      213: -1316542529067087653
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_35
+  - first:
+      213: -1254809182825605220
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_36
+  - first:
+      213: -4119170367965633865
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_37
+  - first:
+      213: 5067692234058476732
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_38
+  - first:
+      213: 6579200591093933859
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_39
+  - first:
+      213: -5821918837525945480
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_40
+  - first:
+      213: -3566218576312643229
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_41
+  - first:
+      213: -7638684037568161810
+    second: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38268696e55e0c590800000000000000
+      internalID: -7655867172871708029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79a6da1536d1e360800000000000000
+      internalID: 7197269203086649723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b10eb7d14d7bd490800000000000000
+      internalID: -7720439414450683471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cb200b0fb324b50800000000000000
+      internalID: 6575884310845504558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42fbbc5640abf6a0800000000000000
+      internalID: -6414357020195163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e188021a3c7157f60800000000000000
+      internalID: 8031351639474472990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c55d591ba88ee90800000000000000
+      internalID: -6996189525792433124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 100
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a6898f7b909de50800000000000000
+      internalID: 6834504595265841678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d2ba42fa573b10800000000000000
+      internalID: 1961136159424959592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd690df6f46b4cd0800000000000000
+      internalID: -2572851750142120498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 124
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d28088eeff5b70800000000000000
+      internalID: 8890104463994573193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 127
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0620744eba1c680800000000000000
+      internalID: -8736512805189820233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 127
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ead73594b1452f20800000000000000
+      internalID: 3397193737774291682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236b1a5af1d71e100800000000000000
+      internalID: 135527038674122290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304c25bcaade95c0800000000000000
+      internalID: -4206684566608658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 127
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9514960b79637a6d0800000000000000
+      internalID: -2979352603354644135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6632edf297c330800000000000000
+      internalID: 3731112435419344661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94978307af3be2dc0800000000000000
+      internalID: -3661791558799689399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 127
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e933e8fc814ff3240800000000000000
+      internalID: 4773802517434610590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 89
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022f3b6222fb98890800000000000000
+      internalID: -7455217554736025056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 89
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780d605c310200e10800000000000000
+      internalID: 2161763090419863687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c797bb1eece060800000000000000
+      internalID: 6984218924956501712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 89
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae16e2d1d3a213c0800000000000000
+      internalID: -4390266565151023446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 99
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdaeee1ee28acec0800000000000000
+      internalID: -3545877797368058424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 89
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3234595c99a18f0800000000000000
+      internalID: -568973329017134109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bff3df1aa6178d0800000000000000
+      internalID: -2850379845177705604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545aac28ded4402b0800000000000000
+      internalID: -5619280752554629819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517273d97b1018470800000000000000
+      internalID: 8394993068523595541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 89
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a4eaa8e5546310800000000000000
+      internalID: 1397336242179582212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a63fd3beece5ecd0800000000000000
+      internalID: -2529355105734543711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499f8a9f7d8ebe40800000000000000
+      internalID: 5674128159726868808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 99
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66dc701783888450800000000000000
+      internalID: 6091263112139036269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 99
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4aae50615f38d20800000000000000
+      internalID: 3279734428593202364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2630a69f6516a5380800000000000000
+      internalID: -8981759480657476766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 99
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff072995f45d2f450800000000000000
+      internalID: 6121189380331827455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8034f8b83babde0800000000000000
+      internalID: -1316542529067087653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9718cc42b5069ee0800000000000000
+      internalID: -1254809182825605220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e718ef54c5d6c0800000000000000
+      internalID: -4119170367965633865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 14
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcaf02bc3f045640800000000000000
+      internalID: 5067692234058476732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a13a54140e4b50800000000000000
+      internalID: 6579200591093933859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_40
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736c12c9a3643fa0800000000000000
+      internalID: -5821918837525945480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3615c77791f328ec0800000000000000
+      internalID: -3566218576312643229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79d4dd651fdf590800000000000000
+      internalID: -7638684037568161810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24127d03759f95e4aa1a9d81d363020f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_0: -7655867172871708029
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_1: 7197269203086649723
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_10: 8890104463994573193
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_11: -8736512805189820233
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_12: 3397193737774291682
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_13: 135527038674122290
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_14: -4206684566608658376
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_15: -2979352603354644135
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_16: 3731112435419344661
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_17: -3661791558799689399
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_18: 4773802517434610590
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_19: -7455217554736025056
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_2: -7720439414450683471
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_20: 2161763090419863687
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_21: 6984218924956501712
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_22: -4390266565151023446
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_23: -3545877797368058424
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_24: -568973329017134109
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_25: -2850379845177705604
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_26: -5619280752554629819
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_27: 8394993068523595541
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_28: 1397336242179582212
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_29: -2529355105734543711
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_3: 6575884310845504558
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_30: 5674128159726868808
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_31: 6091263112139036269
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_32: 3279734428593202364
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_33: -8981759480657476766
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_34: 6121189380331827455
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_35: -1316542529067087653
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_36: -1254809182825605220
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_37: -4119170367965633865
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_38: 5067692234058476732
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_39: 6579200591093933859
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_4: -6414357020195163572
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_40: -5821918837525945480
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_41: -3566218576312643229
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_42: -7638684037568161810
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_5: 8031351639474472990
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_6: -6996189525792433124
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_7: 6834504595265841678
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_8: 1961136159424959592
+      PlayStation - Castlevania Chronicles - Miscellaneous - Torch Statue_9: -2572851750142120498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,8 @@ TagManager:
   - Stage
   - Heart
   - Item
+  - Traps
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -44,17 +46,35 @@ TagManager:
   - name: Background
     uniqueID: 2358755369
     locked: 0
+  - name: Background2
+    uniqueID: 2161891847
+    locked: 0
+  - name: Background3
+    uniqueID: 2453775951
+    locked: 0
   - name: Decoration
     uniqueID: 2187766095
     locked: 0
+  - name: Traps
+    uniqueID: 2590682971
+    locked: 0
   - name: Ground
     uniqueID: 3084126999
+    locked: 0
+  - name: Items
+    uniqueID: 3590039115
     locked: 0
   - name: Enemy
     uniqueID: 3151026083
     locked: 0
   - name: Player
     uniqueID: 307476359
+    locked: 0
+  - name: Traps2
+    uniqueID: 1180484355
+    locked: 0
+  - name: FrontTile
+    uniqueID: 985894653
     locked: 0
   - name: Default
     uniqueID: 0

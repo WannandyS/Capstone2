@@ -1,0 +1,4460 @@
+fileFormatVersion: 2
+guid: d61c89afb636cff4cb8f768b4c5e11f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5120118825732541137
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_0
+  - first:
+      213: 5450381374343667039
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_1
+  - first:
+      213: -9028294906424286978
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_2
+  - first:
+      213: 6303804868806801136
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_3
+  - first:
+      213: 8987590499915814768
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_4
+  - first:
+      213: -6989003784066687671
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_5
+  - first:
+      213: 7816523241901433752
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_6
+  - first:
+      213: -8215732091131131629
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_7
+  - first:
+      213: -3391561662347267211
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_8
+  - first:
+      213: -6417495993329989705
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_9
+  - first:
+      213: 2827072204717485091
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_10
+  - first:
+      213: 2343541952557421350
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_11
+  - first:
+      213: -7544539914328645874
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_12
+  - first:
+      213: -3801830850532729083
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_13
+  - first:
+      213: 492389429773957677
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_14
+  - first:
+      213: -485884064110584584
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_15
+  - first:
+      213: 6709202830350491972
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_16
+  - first:
+      213: 7406057817252592923
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_17
+  - first:
+      213: 7609927311809170104
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_18
+  - first:
+      213: -2031774411943180413
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_19
+  - first:
+      213: -3854448060155796487
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_20
+  - first:
+      213: 5832389081558525455
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_21
+  - first:
+      213: 8662940350525589992
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_22
+  - first:
+      213: 9222139010948673966
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_23
+  - first:
+      213: -8036272292928118812
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_24
+  - first:
+      213: -8544211890068551497
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_25
+  - first:
+      213: -6154239657684635174
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_26
+  - first:
+      213: -6787930869707195525
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_27
+  - first:
+      213: -4080373044577626463
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_28
+  - first:
+      213: 7909177921070029490
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_29
+  - first:
+      213: -3807406075214880680
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_30
+  - first:
+      213: 332062071649584617
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_31
+  - first:
+      213: 1862135886558661416
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_32
+  - first:
+      213: 5078570281403405354
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_33
+  - first:
+      213: -1360122159502880417
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_34
+  - first:
+      213: 8355041755960307561
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_35
+  - first:
+      213: 5977366601245237326
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_36
+  - first:
+      213: -8500782065396656361
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_37
+  - first:
+      213: -9045798114399986658
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_38
+  - first:
+      213: -2341091124161844977
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_39
+  - first:
+      213: 7168381756985319910
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_40
+  - first:
+      213: -6154809378560017672
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_41
+  - first:
+      213: 7505924646398139694
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_42
+  - first:
+      213: 5222989736229921192
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_43
+  - first:
+      213: 1686135226062418178
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_44
+  - first:
+      213: -8641784597564477725
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_45
+  - first:
+      213: -3957071916936510577
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_46
+  - first:
+      213: -8041980912450449844
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_47
+  - first:
+      213: -543972964582410027
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_48
+  - first:
+      213: -8656815062200873183
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_49
+  - first:
+      213: -3451553477299348950
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_50
+  - first:
+      213: -146761219711872690
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_51
+  - first:
+      213: 4740151270704172430
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_52
+  - first:
+      213: -832487411611384837
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_53
+  - first:
+      213: -304464290258611459
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_54
+  - first:
+      213: -5903297625534048169
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_55
+  - first:
+      213: -903324265135685515
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_56
+  - first:
+      213: -4104004893848024017
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_57
+  - first:
+      213: -4895519598937277611
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_58
+  - first:
+      213: 1740149625787764504
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_59
+  - first:
+      213: 2019344776026161194
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_60
+  - first:
+      213: 4691441202701349991
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_61
+  - first:
+      213: 5931747845509726657
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_62
+  - first:
+      213: -7563720016890870190
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_63
+  - first:
+      213: 6323924577096041494
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_64
+  - first:
+      213: 4548695667153932960
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_65
+  - first:
+      213: -3349254421576208774
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_66
+  - first:
+      213: 373231678937743809
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_67
+  - first:
+      213: 2751512584576623238
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_68
+  - first:
+      213: -2125807112489200995
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_69
+  - first:
+      213: -6920022852502108943
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_70
+  - first:
+      213: 1428817054024935639
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_71
+  - first:
+      213: 3763326137535055267
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_72
+  - first:
+      213: -8587466657765421729
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_73
+  - first:
+      213: 8056129928198858876
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_74
+  - first:
+      213: -3125784837546532209
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_75
+  - first:
+      213: 6082838219372253903
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_76
+  - first:
+      213: 2140985833232302234
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_77
+  - first:
+      213: -3606151487590689690
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_78
+  - first:
+      213: 3761350647220399625
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_79
+  - first:
+      213: -5627471046214351996
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_80
+  - first:
+      213: 5230836732475616293
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_81
+  - first:
+      213: -3325239076753490786
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_82
+  - first:
+      213: -796534126468693090
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_83
+  - first:
+      213: -1005762462688921505
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_84
+  - first:
+      213: -1642011803992314395
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_85
+  - first:
+      213: 8349012102494390768
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_86
+  - first:
+      213: 3769190848505738347
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_87
+  - first:
+      213: -8183004024302262880
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_88
+  - first:
+      213: -6401643691047072892
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_89
+  - first:
+      213: 1081375878359984509
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_90
+  - first:
+      213: 8276137999047941886
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_91
+  - first:
+      213: -6350043015730895839
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_92
+  - first:
+      213: 260528115284117427
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_93
+  - first:
+      213: -5743556085026596026
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_94
+  - first:
+      213: -3576549955551046243
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_95
+  - first:
+      213: 1786295900599900417
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_96
+  - first:
+      213: 6891574847740126829
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_97
+  - first:
+      213: -194321065070657556
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_98
+  - first:
+      213: -4928785501594552474
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_99
+  - first:
+      213: 2291383345484571647
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_100
+  - first:
+      213: -4540859975055870558
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_101
+  - first:
+      213: 2264264099022665685
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_102
+  - first:
+      213: 6736655618281108933
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_103
+  - first:
+      213: -2419965746934725034
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_104
+  - first:
+      213: 9090670193309424684
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_105
+  - first:
+      213: -4612423087852264277
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_106
+  - first:
+      213: -4503510784491193512
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_107
+  - first:
+      213: 245978555350835800
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_108
+  - first:
+      213: -6371961292063831314
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_109
+  - first:
+      213: 5246713158124765949
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_110
+  - first:
+      213: -7532035082512691367
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_111
+  - first:
+      213: -5973638990963101340
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_112
+  - first:
+      213: -8152425644176113020
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_113
+  - first:
+      213: 6115921963970907867
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_114
+  - first:
+      213: 2229390356318809567
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_115
+  - first:
+      213: -3008232775937919987
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_116
+  - first:
+      213: -4132127654995036959
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_117
+  - first:
+      213: -2256013325162468226
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_118
+  - first:
+      213: -2074749253935362075
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_119
+  - first:
+      213: 1885408329149948250
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_120
+  - first:
+      213: 2027047629488130039
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_121
+  - first:
+      213: 427097077261289352
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_122
+  - first:
+      213: 2411038034082522211
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_123
+  - first:
+      213: -1526866266751474329
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_124
+  - first:
+      213: 4767851125014106862
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_125
+  - first:
+      213: -8929144682051305708
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_126
+  - first:
+      213: -5486695918297697903
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_127
+  - first:
+      213: 7150265199705911930
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_128
+  - first:
+      213: 6435968821327069831
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_129
+  - first:
+      213: -8735647658242208009
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_130
+  - first:
+      213: 254970513606829748
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_131
+  - first:
+      213: 4876640353248088144
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_132
+  - first:
+      213: 1191189202461894721
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_133
+  - first:
+      213: -3487027757522106187
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_134
+  - first:
+      213: 859818745632752235
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_135
+  - first:
+      213: -8339220421260916045
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_136
+  - first:
+      213: -8276231669450345758
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_137
+  - first:
+      213: -1318589629059600036
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_138
+  - first:
+      213: 1579465495256885901
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_139
+  - first:
+      213: -5817754970221974190
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_140
+  - first:
+      213: -4359868609092401329
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_141
+  - first:
+      213: -6497153632621144338
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_142
+  - first:
+      213: -2137301069051492312
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_143
+  - first:
+      213: -1581273158350591138
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_144
+  - first:
+      213: 1336559226161243828
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_145
+  - first:
+      213: -397632044043469424
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_146
+  - first:
+      213: 4059291751151107801
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_147
+  - first:
+      213: 1952189939032517720
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_148
+  - first:
+      213: 5539845361128223153
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_149
+  - first:
+      213: 8765815016659364114
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_150
+  - first:
+      213: 3345577197269113402
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_151
+  - first:
+      213: 5737346235055860322
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_152
+  - first:
+      213: 5709153466633071943
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_153
+  - first:
+      213: 985665408619667934
+    second: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+      Bosses - Foot Archer_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 764
+        width: 36
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6050608, y: 0.5000009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0497c1f05e0740800000000000000
+      internalID: 5120118825732541137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 764
+        width: 37
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5789894, y: 0.48089853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dd82c8bf4a3ab40800000000000000
+      internalID: 5450381374343667039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 764
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ac17dd9d05b280800000000000000
+      internalID: -9028294906424286978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 764
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67b92112d9b7750800000000000000
+      internalID: 6303804868806801136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 764
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077582ef0f55abc70800000000000000
+      internalID: 8987590499915814768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 764
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d18d47612120f90800000000000000
+      internalID: -6989003784066687671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 764
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893ae1c897ed97c60800000000000000
+      internalID: 7816523241901433752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 764
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3190a52213bdbfd80800000000000000
+      internalID: -8215732091131131629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 764
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57335f923a0cee0d0800000000000000
+      internalID: -3391561662347267211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 764
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7c21a356970f6a0800000000000000
+      internalID: -6417495993329989705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 764
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce0941137cb3720800000000000000
+      internalID: 2827072204717485091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 764
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623196e3dfee58020800000000000000
+      internalID: 2343541952557421350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 675
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f5facabe86c4790800000000000000
+      internalID: -7544539914328645874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 675
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f10e10cfe2d3bc0800000000000000
+      internalID: -3801830850532729083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 675
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a75dcd39155d600800000000000000
+      internalID: 492389429773957677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 675
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc5aac940bc149f0800000000000000
+      internalID: -485884064110584584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 675
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44126156d60eb1d50800000000000000
+      internalID: 6709202830350491972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 675
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d7857885a97c660800000000000000
+      internalID: 7406057817252592923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 675
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bacdea2294eb9960800000000000000
+      internalID: 7609927311809170104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 675
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870668efefadc3e0800000000000000
+      internalID: -2031774411943180413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 698
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3683939ef328ac0800000000000000
+      internalID: -3854448060155796487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 586
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a926e7fec0f050800000000000000
+      internalID: 5832389081558525455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 586
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c97fb952f83870800000000000000
+      internalID: 8662940350525589992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 586
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea13ed8c19e9bff70800000000000000
+      internalID: 9222139010948673966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef94b57dec697090800000000000000
+      internalID: -8036272292928118812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 646
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b88bce1e8cdc6980800000000000000
+      internalID: -8544211890068551497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 646
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f51d43afb79aa0800000000000000
+      internalID: -6154239657684635174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 646
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bb13786dc6cc1a0800000000000000
+      internalID: -6787930869707195525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 646
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a61fdea55a9f57c0800000000000000
+      internalID: -4080373044577626463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 646
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baddb22a6b03cd60800000000000000
+      internalID: 7909177921070029490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 646
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850272bd850692bc0800000000000000
+      internalID: -3807406075214880680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 646
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5cd00e1b8bb9400800000000000000
+      internalID: 332062071649584617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_32
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 646
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b06d909b2a7d910800000000000000
+      internalID: 1862135886558661416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_33
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 646
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24d7e573c4ba7640800000000000000
+      internalID: 5078570281403405354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 634
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5191b72a10ef1de0800000000000000
+      internalID: -1360122159502880417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe19bc53213f370800000000000000
+      internalID: 8355041755960307561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_36
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a18f114fd3f250800000000000000
+      internalID: 5977366601245237326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717550720c7270a80800000000000000
+      internalID: -8500782065396656361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_38
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c5a49aa8ed67280800000000000000
+      internalID: -9045798114399986658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f096385b606c28fd0800000000000000
+      internalID: -2341091124161844977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1208f6a353b7360800000000000000
+      internalID: 7168381756985319910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 634
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faffa2da79b59aa0800000000000000
+      internalID: -6154809378560017672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 634
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1963a2b66a2860800000000000000
+      internalID: 7505924646398139694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ee751e79cb7840800000000000000
+      internalID: 5222989736229921192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 634
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20139b8fd0b566710800000000000000
+      internalID: 1686135226062418178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 634
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee2ab4d1b6321880800000000000000
+      internalID: -8641784597564477725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_46
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 632
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8343589e08a519c0800000000000000
+      internalID: -3957071916936510577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e4be6e7f4256090800000000000000
+      internalID: -8041980912450449844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_48
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 634
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d836a6887b6378f0800000000000000
+      internalID: -543972964582410027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f04431190dcd780800000000000000
+      internalID: -8656815062200873183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_50
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 634
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ade46466e9910d0800000000000000
+      internalID: -3451553477299348950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 634
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e415540c27996fdf0800000000000000
+      internalID: -146761219711872690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 634
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d40ff577668c140800000000000000
+      internalID: 4740151270704172430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 586
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf34bee1c196274f0800000000000000
+      internalID: -832487411611384837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 622
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21854575356cbf0800000000000000
+      internalID: -304464290258611459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 620
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d2aa2616431ea0800000000000000
+      internalID: -5903297625534048169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 620
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c89bed5fb673f0800000000000000
+      internalID: -903324265135685515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c49b10b45ab07c0800000000000000
+      internalID: -4104004893848024017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_58
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 622
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b7162ccde9f0cb0800000000000000
+      internalID: -4895519598937277611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 622
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fcb1d6dd0462810800000000000000
+      internalID: 1740149625787764504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 620
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208416ff57260c10800000000000000
+      internalID: 2019344776026161194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_61
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 622
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76435a3eae85b1140800000000000000
+      internalID: 4691441202701349991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 621
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1cbccdc3dc15250800000000000000
+      internalID: 5931747845509726657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_63
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 622
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25645bc08b4480790800000000000000
+      internalID: -7563720016890870190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140c24b5e713c750800000000000000
+      internalID: 6323924577096041494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 620
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a29118fb96302f30800000000000000
+      internalID: 4548695667153932960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_66
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 622
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e2b8349de0581d0800000000000000
+      internalID: -3349254421576208774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 622
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c10a0c3cfd2500800000000000000
+      internalID: 373231678937743809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 622
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682e4b61e165f2620800000000000000
+      internalID: 2751512584576623238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 586
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d921517b1bd9f72e0800000000000000
+      internalID: -2125807112489200995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_70
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 610
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4c60721e327ff90800000000000000
+      internalID: -6920022852502108943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_71
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d82d2a5a8d24d310800000000000000
+      internalID: 1428817054024935639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 608
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a548b1ee250a3430800000000000000
+      internalID: 3763326137535055267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_73
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 608
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8167b29033d880800000000000000
+      internalID: -8587466657765421729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 608
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78afaa8c7f1dcf60800000000000000
+      internalID: 8056129928198858876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_75
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 610
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82acb9504bfe94d0800000000000000
+      internalID: -3125784837546532209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_76
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 610
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25adbd1259a6450800000000000000
+      internalID: 6082838219372253903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9084fa954f46bd10800000000000000
+      internalID: 2140985833232302234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_78
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66419e7045064fdc0800000000000000
+      internalID: -3606151487590689690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_79
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 610
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee1433c70033430800000000000000
+      internalID: 3761350647220399625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_80
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 598
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483099a26e437e1b0800000000000000
+      internalID: -5627471046214351996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_81
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c26454b4aa79840800000000000000
+      internalID: 5230836732475616293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_82
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 598
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c3cd47da06ad1d0800000000000000
+      internalID: -3325239076753490786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_83
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 598
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e938b54ae6422f4f0800000000000000
+      internalID: -796534126468693090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 598
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5831037e50da02f0800000000000000
+      internalID: -1005762462688921505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_85
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed2a0ac6f66639e0800000000000000
+      internalID: -1642011803992314395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_86
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 598
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98d92b546add370800000000000000
+      internalID: 8349012102494390768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_87
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6476df4b1bde4430800000000000000
+      internalID: 3769190848505738347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_88
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52fdff131207e80800000000000000
+      internalID: -8183004024302262880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_89
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 598
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bc488fafac827a0800000000000000
+      internalID: -6401643691047072892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_90
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79a25ac1a1d10f00800000000000000
+      internalID: 1081375878359984509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_91
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 598
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5d5949afbad270800000000000000
+      internalID: 8276137999047941886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_92
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 598
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124e8ea658d10e7a0800000000000000
+      internalID: -6350043015730895839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_93
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b70385c0f49d9300800000000000000
+      internalID: 260528115284117427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_94
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 596
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bd47cdb2aca40b0800000000000000
+      internalID: -5743556085026596026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 489
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 0.69940346, y: 0.6005197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d0f9c3ca8d5ec0800000000000000
+      internalID: -3576549955551046243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_96
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6952404, y: 0.59653693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1095efa48a23ac810800000000000000
+      internalID: 1786295900599900417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 489
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 0.70375484, y: 0.6106143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6621969fcac3af50800000000000000
+      internalID: 6891574847740126829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 489
+        width: 51
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6820317, y: 0.514356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef76185502ad4df0800000000000000
+      internalID: -194321065070657556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_99
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 490
+        width: 70
+        height: 82
+      alignment: 9
+      pivot: {x: 0.7549988, y: 0.42411247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6677c5b33bf699bb0800000000000000
+      internalID: -4928785501594552474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 490
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.7391418, y: 0.3880061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3aadf2301accf10800000000000000
+      internalID: 2291383345484571647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_101
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 490
+        width: 54
+        height: 66
+      alignment: 9
+      pivot: {x: 0.68133205, y: 0.5490029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5710449ef9bf0c0800000000000000
+      internalID: -4540859975055870558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_102
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 490
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.72507125, y: 0.63029325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d77ae393384c6f10800000000000000
+      internalID: 2264264099022665685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 51
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6639398, y: 0.50410545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f8cda7986d7d50800000000000000
+      internalID: 6736655618281108933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 63
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5401948, y: 0.45849055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c75589fd8a6ed0800000000000000
+      internalID: -2419965746934725034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 400
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c907a506c882e70800000000000000
+      internalID: 9090670193309424684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_106
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 400
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba461c6a3a16dffb0800000000000000
+      internalID: -4612423087852264277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_107
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 400
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf2485dc05081c0800000000000000
+      internalID: -4503510784491193512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_108
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 400
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ec0e5134e96300800000000000000
+      internalID: 245978555350835800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 400
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea0ff707fe3297a0800000000000000
+      internalID: -6371961292063831314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 452
+        width: 39
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2056ca1d110d840800000000000000
+      internalID: 5246713158124765949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_111
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 321
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0d07bff5d87790800000000000000
+      internalID: -7532035082512691367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 321
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b837ccfe591da0800000000000000
+      internalID: -5973638990963101340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 321
+        width: 52
+        height: 74
+      alignment: 9
+      pivot: {x: 0.55774176, y: 0.48550868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482091de114ccde80800000000000000
+      internalID: -8152425644176113020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 321
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdece786f9e10e450800000000000000
+      internalID: 6115921963970907867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 321
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5195373, y: 0.6341303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd601e97b260fe10800000000000000
+      internalID: 2229390356318809567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 321
+        width: 69
+        height: 36
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0478848a3c9046d0800000000000000
+      internalID: -3008232775937919987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 71
+        height: 38
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f37d6acbb7a6c0800000000000000
+      internalID: -4132127654995036959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_119
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 321
+        width: 90
+        height: 42
+      alignment: 9
+      pivot: {x: 0.255325, y: 0.9848451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef0d29cb820533e0800000000000000
+      internalID: -2074749253935362075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 77
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7952087, y: 0.2174547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ab83d2e05a2a10800000000000000
+      internalID: 1885408329149948250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_121
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 80
+        height: 26
+      alignment: 9
+      pivot: {x: 0.781793, y: 0.62620777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7007a4415812c10800000000000000
+      internalID: 2027047629488130039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_122
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 278
+        width: 82
+        height: 16
+      alignment: 9
+      pivot: {x: 0.77492005, y: 0.49120712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88744c6678a5de500800000000000000
+      internalID: 427097077261289352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_123
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 278
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e179515ab57120800000000000000
+      internalID: 2411038034082522211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_124
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 279
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76560c6583b7fcae0800000000000000
+      internalID: -1526866266751474329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_125
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 279
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee29968465fca2240800000000000000
+      internalID: 4767851125014106862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f7346683e451480800000000000000
+      internalID: -8929144682051305708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_127
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 233
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b74fc1275bd3b0800000000000000
+      internalID: -5486695918297697903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_128
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 233
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72fe4eb058da3360800000000000000
+      internalID: 7150265199705911930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_129
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 233
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78280b43b87215950800000000000000
+      internalID: 6435968821327069831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_130
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 233
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe008ffcbeb4c680800000000000000
+      internalID: -8735647658242208009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_131
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 233
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6ebbbc456d98300800000000000000
+      internalID: 254970513606829748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_132
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 233
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05010b0509e4da340800000000000000
+      internalID: 4876640353248088144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 153
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a509b444f78010800000000000000
+      internalID: 1191189202461894721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 153
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8c7f6cab69b9fc0800000000000000
+      internalID: -3487027757522106187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_135
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 153
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6289a8f790beeb00800000000000000
+      internalID: 859818745632752235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 153
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba4f0fb533254c80800000000000000
+      internalID: -8339220421260916045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 153
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2f29f552be42d80800000000000000
+      internalID: -8276231669450345758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_138
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 153
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517363f7bd63bde0800000000000000
+      internalID: -1318589629059600036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 153
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae5c3ef736be510800000000000000
+      internalID: 1579465495256885901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_140
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 153
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de7a9adae234fa0800000000000000
+      internalID: -5817754970221974190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_141
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 153
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47cbaf7992ae73c0800000000000000
+      internalID: -4359868609092401329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_142
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 62
+        height: 58
+      alignment: 9
+      pivot: {x: 0.40699264, y: 0.5298259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee65a7cc13975d5a0800000000000000
+      internalID: -6497153632621144338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_143
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 90
+        width: 67
+        height: 58
+      alignment: 9
+      pivot: {x: 0.48018488, y: 0.5348878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288f196008c652e0800000000000000
+      internalID: -2137301069051492312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49067384, y: 0.4979332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b27afb0703e0ae0800000000000000
+      internalID: -1581273158350591138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_145
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6ac98e8896c8210800000000000000
+      internalID: 1336559226161243828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df97f33c35b7af0800000000000000
+      internalID: -397632044043469424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_147
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 90
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9def8033750855830800000000000000
+      internalID: 4059291751151107801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_148
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 90
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cef1a0862971b10800000000000000
+      internalID: 1952189939032517720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b4ac210c71ec40800000000000000
+      internalID: 5539845361128223153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21924ca705e66a970800000000000000
+      internalID: 8765815016659364114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_151
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a5fdb3cb0ed6e20800000000000000
+      internalID: 3345577197269113402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_152
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 9
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aede5c0062f9f40800000000000000
+      internalID: 5737346235055860322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_153
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 9
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74daada54dcfa3f40800000000000000
+      internalID: 5709153466633071943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies &
+        Bosses - Foot Archer_154
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 52
+        height: 74
+      alignment: 9
+      pivot: {x: 0.57011473, y: 0.47101754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16a248779cdad00800000000000000
+      internalID: 985665408619667934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 87e8cf98998feb34c812e8b90be2de2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_0: 5120118825732541137
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_1: 5450381374343667039
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_10: 2827072204717485091
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_100: 2291383345484571647
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_101: -4540859975055870558
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_102: 2264264099022665685
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_103: 6736655618281108933
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_104: -2419965746934725034
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_105: 9090670193309424684
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_106: -4612423087852264277
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_107: -4503510784491193512
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_108: 245978555350835800
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_109: -6371961292063831314
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_11: 2343541952557421350
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_110: 5246713158124765949
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_111: -7532035082512691367
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_112: -5973638990963101340
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_113: -8152425644176113020
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_114: 6115921963970907867
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_115: 2229390356318809567
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_116: -3008232775937919987
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_117: -4132127654995036959
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_118: -2256013325162468226
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_119: -2074749253935362075
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_12: -7544539914328645874
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_120: 1885408329149948250
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_121: 2027047629488130039
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_122: 427097077261289352
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_123: 2411038034082522211
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_124: -1526866266751474329
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_125: 4767851125014106862
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_126: -8929144682051305708
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_127: -5486695918297697903
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_128: 7150265199705911930
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_129: 6435968821327069831
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_13: -3801830850532729083
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_130: -8735647658242208009
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_131: 254970513606829748
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_132: 4876640353248088144
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_133: 1191189202461894721
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_134: -3487027757522106187
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_135: 859818745632752235
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_136: -8339220421260916045
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_137: -8276231669450345758
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_138: -1318589629059600036
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_139: 1579465495256885901
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_14: 492389429773957677
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_140: -5817754970221974190
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_141: -4359868609092401329
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_142: -6497153632621144338
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_143: -2137301069051492312
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_144: -1581273158350591138
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_145: 1336559226161243828
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_146: -397632044043469424
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_147: 4059291751151107801
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_148: 1952189939032517720
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_149: 5539845361128223153
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_15: -485884064110584584
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_150: 8765815016659364114
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_151: 3345577197269113402
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_152: 5737346235055860322
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_153: 5709153466633071943
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_154: 985665408619667934
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_16: 6709202830350491972
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_17: 7406057817252592923
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_18: 7609927311809170104
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_19: -2031774411943180413
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_2: -9028294906424286978
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_20: -3854448060155796487
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_21: 5832389081558525455
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_22: 8662940350525589992
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_23: 9222139010948673966
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_24: -8036272292928118812
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_25: -8544211890068551497
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_26: -6154239657684635174
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_27: -6787930869707195525
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_28: -4080373044577626463
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_29: 7909177921070029490
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_3: 6303804868806801136
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_30: -3807406075214880680
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_31: 332062071649584617
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_32: 1862135886558661416
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_33: 5078570281403405354
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_34: -1360122159502880417
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_35: 8355041755960307561
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_36: 5977366601245237326
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_37: -8500782065396656361
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_38: -9045798114399986658
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_39: -2341091124161844977
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_4: 8987590499915814768
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_40: 7168381756985319910
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_41: -6154809378560017672
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_42: 7505924646398139694
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_43: 5222989736229921192
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_44: 1686135226062418178
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_45: -8641784597564477725
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_46: -3957071916936510577
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_47: -8041980912450449844
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_48: -543972964582410027
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_49: -8656815062200873183
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_5: -6989003784066687671
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_50: -3451553477299348950
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_51: -146761219711872690
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_52: 4740151270704172430
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_53: -832487411611384837
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_54: -304464290258611459
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_55: -5903297625534048169
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_56: -903324265135685515
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_57: -4104004893848024017
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_58: -4895519598937277611
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_59: 1740149625787764504
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_6: 7816523241901433752
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_60: 2019344776026161194
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_61: 4691441202701349991
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_62: 5931747845509726657
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_63: -7563720016890870190
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_64: 6323924577096041494
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_65: 4548695667153932960
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_66: -3349254421576208774
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_67: 373231678937743809
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_68: 2751512584576623238
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_69: -2125807112489200995
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_7: -8215732091131131629
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_70: -6920022852502108943
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_71: 1428817054024935639
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_72: 3763326137535055267
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_73: -8587466657765421729
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_74: 8056129928198858876
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_75: -3125784837546532209
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_76: 6082838219372253903
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_77: 2140985833232302234
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_78: -3606151487590689690
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_79: 3761350647220399625
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_8: -3391561662347267211
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_80: -5627471046214351996
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_81: 5230836732475616293
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_82: -3325239076753490786
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_83: -796534126468693090
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_84: -1005762462688921505
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_85: -1642011803992314395
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_86: 8349012102494390768
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_87: 3769190848505738347
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_88: -8183004024302262880
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_89: -6401643691047072892
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_9: -6417495993329989705
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_90: 1081375878359984509
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_91: 8276137999047941886
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_92: -6350043015730895839
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_93: 260528115284117427
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_94: -5743556085026596026
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_95: -3576549955551046243
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_96: 1786295900599900417
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_97: 6891574847740126829
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_98: -194321065070657556
+      Game Boy Advance - Teenage Mutant Ninja Turtles (Konami) - Enemies & Bosses - Foot Archer_99: -4928785501594552474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,12 +23,17 @@ public class Enemy2 : MonoBehaviour
     public LayerMask layerPlayer;
 
     public GameObject explosionPrefab;
+    private AudioManager audio;
+
+    public float attackSoundCooldown = 0.2f;
+    public float lastAttackSoundTime = 0f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         facingRight = true;
         animator = this.GetComponent<Animator>();
+        audio = FindAnyObjectByType<AudioManager>();
     }
 
     // Update is called once per frame
@@ -37,6 +42,11 @@ public class Enemy2 : MonoBehaviour
         if (maxHealth <= 0)
         {
             Died();
+        }
+
+        if (FindAnyObjectByType<Manager>().isGameActive == false)
+        {
+            return;
         }
 
         if (Vector2.Distance(transform.position, player.position) <= attackRange)
@@ -58,10 +68,17 @@ public class Enemy2 : MonoBehaviour
             } else
             {
                 animator.SetBool("Attack", true);
+
+                if (Time.time >= lastAttackSoundTime + attackSoundCooldown)
+                {
+                    audio.enemyAttackAudio.Play();
+                    lastAttackSoundTime = Time.time;
+                }
             }
         } else
         {
             transform.Translate(new Vector2(1, 0) * speed * Time.deltaTime);
+            animator.SetBool("Attack", false);
         }
 
 
@@ -80,7 +97,7 @@ public class Enemy2 : MonoBehaviour
             }
         }
     }
-
+    
     public void Attack()
     {
         Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, attackRadius, layerPlayer);
@@ -100,6 +117,7 @@ public class Enemy2 : MonoBehaviour
         maxHealth -= 1;
         animator.SetTrigger("Hurt");
         Camera.instance.Shake(1.5f, 0.2f);
+        audio.enemyHurtAudio.Play();
     }
 
     void Died()
@@ -107,8 +125,9 @@ public class Enemy2 : MonoBehaviour
         Camera.instance.Shake(2.5f, 0.5f);
         Debug.Log("Enemy Died");
         GameObject temp = Instantiate(explosionPrefab, transform.position, Quaternion.identity);
-        Destroy(temp, 16);
+        Destroy(temp, 0.7f);
         Destroy(this.gameObject);
+        audio.enemyDied1Audio.Play();
     }
 
     private void OnDrawGizmosSelected()
