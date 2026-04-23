@@ -221,11 +221,8 @@ public class Player : MonoBehaviour
 
         if (collision.gameObject.tag == "TreasureKey")
         {
-            collision.gameObject.GetComponent<Animator>().SetTrigger("CollectTreasureKey");
-            Destroy(collision.gameObject, 0.3f);
             winUI.SetActive(true);
             FindAnyObjectByType<Manager>().isGameActive = false;
-            audio.PlayWinSound();
         }
 
         if (collision.gameObject.tag == "Traps")

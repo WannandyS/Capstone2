@@ -18,7 +18,6 @@ public class AudioManager : MonoBehaviour
     public AudioSource collectGemAudio;
     public AudioSource playButtonAudio;
     public AudioSource otherButtonAudio;
-    public AudioSource winAudio;
 
     public void PlayAttack1Sound()
     {
@@ -98,10 +97,5 @@ public class AudioManager : MonoBehaviour
     public void PlayOtherButtonSound()
     {
         otherButtonAudio.Play();
-    }
-
-    public void PlayWinSound() 
-    {
-        winAudio.Play(); 
     }
 }
