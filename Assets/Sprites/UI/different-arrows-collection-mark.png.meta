@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 3c02b1e2252ef7647b29de49d8f67c85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -541250805018268707
+    second: different-arrows-collection-mark_0
+  - first:
+      213: -5159166619874237081
+    second: different-arrows-collection-mark_1
+  - first:
+      213: -2098233094335229332
+    second: different-arrows-collection-mark_2
+  - first:
+      213: 2137940325041200608
+    second: different-arrows-collection-mark_3
+  - first:
+      213: -6321554657795332518
+    second: different-arrows-collection-mark_4
+  - first:
+      213: 4479906746738631620
+    second: different-arrows-collection-mark_5
+  - first:
+      213: 688124805952408475
+    second: different-arrows-collection-mark_6
+  - first:
+      213: 196830479101781532
+    second: different-arrows-collection-mark_7
+  - first:
+      213: 4156689880040446628
+    second: different-arrows-collection-mark_8
+  - first:
+      213: -8300466997862508623
+    second: different-arrows-collection-mark_9
+  - first:
+      213: 1571299804120982854
+    second: different-arrows-collection-mark_10
+  - first:
+      213: -3643211150011457671
+    second: different-arrows-collection-mark_11
+  - first:
+      213: 3440441497746799079
+    second: different-arrows-collection-mark_12
+  - first:
+      213: -3799874607858453381
+    second: different-arrows-collection-mark_13
+  - first:
+      213: -5973285137379554934
+    second: different-arrows-collection-mark_14
+  - first:
+      213: 1018503609281009025
+    second: different-arrows-collection-mark_15
+  - first:
+      213: 3012220976707604385
+    second: different-arrows-collection-mark_16
+  - first:
+      213: -7627473013431478775
+    second: different-arrows-collection-mark_17
+  - first:
+      213: 4404378920050407115
+    second: different-arrows-collection-mark_18
+  - first:
+      213: 1567403204724734877
+    second: different-arrows-collection-mark_19
+  - first:
+      213: -6826280325597241855
+    second: different-arrows-collection-mark_20
+  - first:
+      213: 6859010723563634816
+    second: different-arrows-collection-mark_21
+  - first:
+      213: -5173491435462540914
+    second: different-arrows-collection-mark_22
+  - first:
+      213: -2903963475698499795
+    second: different-arrows-collection-mark_23
+  - first:
+      213: 988661129311899538
+    second: different-arrows-collection-mark_24
+  - first:
+      213: 6193972674615340712
+    second: different-arrows-collection-mark_25
+  - first:
+      213: -6558716747868606304
+    second: different-arrows-collection-mark_26
+  - first:
+      213: -3240717294558629505
+    second: different-arrows-collection-mark_27
+  - first:
+      213: 7635098348491816057
+    second: different-arrows-collection-mark_28
+  - first:
+      213: 2721795182713621847
+    second: different-arrows-collection-mark_29
+  - first:
+      213: -1656751866319608243
+    second: different-arrows-collection-mark_30
+  - first:
+      213: -7281687392348525615
+    second: different-arrows-collection-mark_31
+  - first:
+      213: -2396423810410496134
+    second: different-arrows-collection-mark_32
+  - first:
+      213: -6456748547348622558
+    second: different-arrows-collection-mark_33
+  - first:
+      213: -7491896732406157906
+    second: different-arrows-collection-mark_34
+  - first:
+      213: 5018956705626745404
+    second: different-arrows-collection-mark_35
+  - first:
+      213: 1368086836464789493
+    second: different-arrows-collection-mark_36
+  - first:
+      213: 88531166965177963
+    second: different-arrows-collection-mark_37
+  - first:
+      213: 8845390013229554740
+    second: different-arrows-collection-mark_38
+  - first:
+      213: 237391343984897429
+    second: different-arrows-collection-mark_39
+  - first:
+      213: -6612589493646426181
+    second: different-arrows-collection-mark_40
+  - first:
+      213: -4680301196254531279
+    second: different-arrows-collection-mark_41
+  - first:
+      213: 8553200171064326173
+    second: different-arrows-collection-mark_42
+  - first:
+      213: 4684166151153348844
+    second: different-arrows-collection-mark_43
+  - first:
+      213: 1350325000188748388
+    second: different-arrows-collection-mark_44
+  - first:
+      213: -6814715287452862952
+    second: different-arrows-collection-mark_45
+  - first:
+      213: -1647123843914120809
+    second: different-arrows-collection-mark_46
+  - first:
+      213: 563846670819269869
+    second: different-arrows-collection-mark_47
+  - first:
+      213: 231349111176268419
+    second: different-arrows-collection-mark_48
+  - first:
+      213: -7652936039982357866
+    second: different-arrows-collection-mark_49
+  - first:
+      213: -1102703346711303460
+    second: different-arrows-collection-mark_50
+  - first:
+      213: -2817752422850611242
+    second: different-arrows-collection-mark_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_0
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1834
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbed70b2471d78f0800000000000000
+      internalID: -541250805018268707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1834
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e75d2b45f668b0800000000000000
+      internalID: -5159166619874237081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1834
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621e2c1e1491e2e0800000000000000
+      internalID: -2098233094335229332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1834
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5019f56d7bad10800000000000000
+      internalID: 2137940325041200608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1834
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56a4e128835548a0800000000000000
+      internalID: -6321554657795332518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_5
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1833
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36b3a5373db2e30800000000000000
+      internalID: 4479906746738631620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1834
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b8deb7dd5bc8900800000000000000
+      internalID: 688124805952408475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1834
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e4d327484bb200800000000000000
+      internalID: 196830479101781532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1834
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa954d3c678fa930800000000000000
+      internalID: 4156689880040446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_9
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1834
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75d824e31decc80800000000000000
+      internalID: -8300466997862508623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_10
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1833
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a544c8d06ec510800000000000000
+      internalID: 1571299804120982854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_11
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1834
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f13d9f2c6b07dc0800000000000000
+      internalID: -3643211150011457671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_12
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1834
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f5bf5057eebf20800000000000000
+      internalID: 3440441497746799079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_13
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1833
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74f19f3d22244bc0800000000000000
+      internalID: -3799874607858453381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_14
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1834
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a890f5cb0d0aa1da0800000000000000
+      internalID: -5973285137379554934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1437
+        width: 301
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185d5a9e2a3722e00800000000000000
+      internalID: 1018503609281009025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_16
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1438
+        width: 98
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af03a5d40f8dc920800000000000000
+      internalID: 3012220976707604385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_17
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1437
+        width: 98
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906d984d4b5c52690800000000000000
+      internalID: -7627473013431478775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1437
+        width: 99
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6b2d9da4f7f1d30800000000000000
+      internalID: 4404378920050407115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_19
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1444
+        width: 299
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b3d6509e880c510800000000000000
+      internalID: 1567403204724734877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1066
+        width: 293
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed987063e2441a0800000000000000
+      internalID: -6826280325597241855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1049
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0800b9899e9103f50800000000000000
+      internalID: 6859010723563634816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_22
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1057
+        width: 356
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81cab423f01438b0800000000000000
+      internalID: -5173491435462540914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 559
+        width: 360
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f384eca9c03b7d0800000000000000
+      internalID: -2903963475698499795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 665
+        width: 346
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f713e586ac8a603d0800000000000000
+      internalID: -3240717294558629505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_28
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 553
+        width: 266
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cb607de7155f960800000000000000
+      internalID: 7635098348491816057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 264
+        width: 249
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dc3094c42c5c520800000000000000
+      internalID: 2721795182713621847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_30
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 259
+        width: 232
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ed0794f80209e0800000000000000
+      internalID: -1656751866319608243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 293
+        width: 101
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db20ad85ef32fa90800000000000000
+      internalID: -7281687392348525615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_32
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 293
+        width: 101
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb131cd313ebed0800000000000000
+      internalID: -2396423810410496134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_33
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 293
+        width: 101
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223144fc7650566a0800000000000000
+      internalID: -6456748547348622558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_34
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 293
+        width: 101
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead650b9d9f670890800000000000000
+      internalID: -7491896732406157906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 60
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a62fd388ae6a540800000000000000
+      internalID: 5018956705626745404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_36
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 60
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f72f55babb6cf210800000000000000
+      internalID: 1368086836464789493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_37
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e928690a68a3100800000000000000
+      internalID: 88531166965177963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_38
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 60
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cd5562a5321ca70800000000000000
+      internalID: 8845390013229554740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_39
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 50
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de8fa6b226b4300800000000000000
+      internalID: 237391343984897429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_40
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 60
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf79b9f3ec5b34a0800000000000000
+      internalID: -6612589493646426181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_41
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 60
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b96bfbda3c0fb0800000000000000
+      internalID: -4680301196254531279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_42
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 50
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1879112d3213b670800000000000000
+      internalID: 8553200171064326173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_43
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 57
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07764fb40810140800000000000000
+      internalID: 4684166151153348844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_44
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 60
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462649fee615db210800000000000000
+      internalID: 1350325000188748388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_45
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 50
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816b2fd4d844d61a0800000000000000
+      internalID: -6814715287452862952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_46
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 90
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7914c6e379d3429e0800000000000000
+      internalID: -1647123843914120809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_47
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 60
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec18f94f8f23d700800000000000000
+      internalID: 563846670819269869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_48
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 60
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a83c67acae53300800000000000000
+      internalID: 231349111176268419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_49
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 60
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6922118f73f4bc590800000000000000
+      internalID: -7652936039982357866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_50
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 60
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda63a6062962b0f0800000000000000
+      internalID: -1102703346711303460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-arrows-collection-mark_51
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 60
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d73efab91555e8d0800000000000000
+      internalID: -2817752422850611242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 486cc46070051a145bb6746b3cad3638
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      different-arrows-collection-mark_0: -541250805018268707
+      different-arrows-collection-mark_1: -5159166619874237081
+      different-arrows-collection-mark_10: 1571299804120982854
+      different-arrows-collection-mark_11: -3643211150011457671
+      different-arrows-collection-mark_12: 3440441497746799079
+      different-arrows-collection-mark_13: -3799874607858453381
+      different-arrows-collection-mark_14: -5973285137379554934
+      different-arrows-collection-mark_15: 1018503609281009025
+      different-arrows-collection-mark_16: 3012220976707604385
+      different-arrows-collection-mark_17: -7627473013431478775
+      different-arrows-collection-mark_18: 4404378920050407115
+      different-arrows-collection-mark_19: 1567403204724734877
+      different-arrows-collection-mark_2: -2098233094335229332
+      different-arrows-collection-mark_20: -6826280325597241855
+      different-arrows-collection-mark_21: 6859010723563634816
+      different-arrows-collection-mark_22: -5173491435462540914
+      different-arrows-collection-mark_23: -2903963475698499795
+      different-arrows-collection-mark_24: 988661129311899538
+      different-arrows-collection-mark_25: 6193972674615340712
+      different-arrows-collection-mark_26: -6558716747868606304
+      different-arrows-collection-mark_27: -3240717294558629505
+      different-arrows-collection-mark_28: 7635098348491816057
+      different-arrows-collection-mark_29: 2721795182713621847
+      different-arrows-collection-mark_3: 2137940325041200608
+      different-arrows-collection-mark_30: -1656751866319608243
+      different-arrows-collection-mark_31: -7281687392348525615
+      different-arrows-collection-mark_32: -2396423810410496134
+      different-arrows-collection-mark_33: -6456748547348622558
+      different-arrows-collection-mark_34: -7491896732406157906
+      different-arrows-collection-mark_35: 5018956705626745404
+      different-arrows-collection-mark_36: 1368086836464789493
+      different-arrows-collection-mark_37: 88531166965177963
+      different-arrows-collection-mark_38: 8845390013229554740
+      different-arrows-collection-mark_39: 237391343984897429
+      different-arrows-collection-mark_4: -6321554657795332518
+      different-arrows-collection-mark_40: -6612589493646426181
+      different-arrows-collection-mark_41: -4680301196254531279
+      different-arrows-collection-mark_42: 8553200171064326173
+      different-arrows-collection-mark_43: 4684166151153348844
+      different-arrows-collection-mark_44: 1350325000188748388
+      different-arrows-collection-mark_45: -6814715287452862952
+      different-arrows-collection-mark_46: -1647123843914120809
+      different-arrows-collection-mark_47: 563846670819269869
+      different-arrows-collection-mark_48: 231349111176268419
+      different-arrows-collection-mark_49: -7652936039982357866
+      different-arrows-collection-mark_5: 4479906746738631620
+      different-arrows-collection-mark_50: -1102703346711303460
+      different-arrows-collection-mark_51: -2817752422850611242
+      different-arrows-collection-mark_6: 688124805952408475
+      different-arrows-collection-mark_7: 196830479101781532
+      different-arrows-collection-mark_8: 4156689880040446628
+      different-arrows-collection-mark_9: -8300466997862508623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

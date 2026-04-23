@@ -2,6 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
+using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
@@ -56,6 +57,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         movement = Input.GetAxis("Horizontal");
+        movement = SimpleInput.GetAxis("Horizontal");
         transform.position += new Vector3(movement, 0, 0) * Time.deltaTime * speed;
 
         Flip();
@@ -68,11 +70,11 @@ public class Player : MonoBehaviour
         hpText.text = maxHealth.ToString();
         currentDiamondText.text = currentDiamond.ToString();
 
-        if (Input.GetKey(KeyCode.Space) && isGround == true)
+        if (Input.GetKey(KeyCode.Space) /*&& isGround == true*/)
         {
             Jump();
-            isGround = false;
-            animator.SetBool("Jump", true);
+            //isGround = false;
+            //animator.SetBool("Jump", true);
         }
 
         //lari
@@ -102,7 +104,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    void AttackAnim()
+    public void AttackAnim()
     {
         int random = Random.Range(0, 3);
 
@@ -139,9 +141,16 @@ public class Player : MonoBehaviour
         }
     }
 
-    void Jump()
+    public void Jump()
     {
-        rb.AddForce(new Vector2(0, jumpHeight), ForceMode2D.Impulse);
+        if (isGround)
+        {
+            animator.SetBool("Jump", true);
+            Vector2 velocity = rb.linearVelocity;
+            velocity.y = jumpHeight;
+            rb.linearVelocity = velocity;
+        }
+        //rb.AddForce(new Vector2(0, jumpHeight), ForceMode2D.Impulse);
         FindAnyObjectByType<AudioManager>().PlayJumpSound();
     }
 
